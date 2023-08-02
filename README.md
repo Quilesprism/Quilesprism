@@ -4,17 +4,17 @@
 - Actualmente estoy trabajando en [un proyecto de SENA](https://github.com/Quilesprism/ProyectoSena)
 - - Actualmente estoy aprendiendo **Angular, Django, Python**
 
-- Estoy buscando terminar [Prueba de login node y css](https://github.com/Quilesprism/CSS-Login 👯)
+- Estoy buscando terminar mi aprendizaje de node y css [Prueba de login node y css](https://github.com/Quilesprism/CSS-Login )
 
 
 
-🌱 🔭 👋- Estoy arreglando [Mini juego en Flutter](https://github.com/Quilesprism/Flutter-game)
+🌱 🔭 👋- Estoy estudiando flutter [Mini juego en Flutter](https://github.com/Quilesprism/Flutter-game)
 
 - Todos mis proyectos están disponibles en [https://github.com/Quilesprism/](https://github.com/Quilesprism/)
 
 
 
-- Pregúntame sobre **Django, Python**
+- Pregúntame sobre **Django, Python, JS**
 -  ¿Cómo llegar a mí? **quilesxasterin8@gmail.com**
 -  - 💬 🤝 📫 👨 💻 ⚡ Dato curioso **Creo que soy feliz y divertido**
 

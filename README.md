@@ -1,17 +1,22 @@
 <h1 align="center">Hola, soy Quiles Gonzalez</h1><h3 align="center">Un desarrollador fullstack apasionado de Colombia</h3>
 
 
-- Actualmente estoy trabajando en [Proyecto de SENA](https://github.com/Quilesprism/ProyectoSena)- Actualmente estoy aprendiendo **Angular, Django, Python**
+- Actualmente estoy trabajando en [un proyecto de SENA](https://github.com/Quilesprism/ProyectoSena)
+- - Actualmente estoy aprendiendo **Angular, Django, Python**
 
-- Estoy buscando colaborar en [Prueba de login node y css](https://github.com/Quilesprism/CSS-Login 👯)
-
-
-
-🌱 🔭 👋- Estoy buscando ayuda con [Mini juego en Flutter](https://github.com/Quilesprism/Flutter-game)- Todos mis proyectos están disponibles en [https://github.com/Quilesprism/](https://github.com/Quilesprism/)
+- Estoy buscando terminar [Prueba de login node y css](https://github.com/Quilesprism/CSS-Login 👯)
 
 
 
-- Pregúntame sobre **Django, Python**- Cómo llegar a mí **quilesxasterin8@gmail.com**- 💬 🤝 📫 👨 💻 ⚡ Dato curioso **Creo que soy feliz y divertido**
+🌱 🔭 👋- Estoy arreglando [Mini juego en Flutter](https://github.com/Quilesprism/Flutter-game)
+
+- Todos mis proyectos están disponibles en [https://github.com/Quilesprism/](https://github.com/Quilesprism/)
+
+
+
+- Pregúntame sobre **Django, Python**
+-  ¿Cómo llegar a mí? **quilesxasterin8@gmail.com**
+-  - 💬 🤝 📫 👨 💻 ⚡ Dato curioso **Creo que soy feliz y divertido**
 
 
 

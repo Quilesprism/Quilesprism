@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Quiles Gonzalez</h1><h3 align="center">Un desarrollador fullstack apasionado de Colombia</h3>
+<h1 align="center">Hola, soy Quiles Gonzalez</h1><h3 align="center">Un desarrollador backend apasionado de Colombia</h3>
 
 
 - Actualmente estoy trabajando en [un proyecto de SENA](https://github.com/Quilesprism/ProyectoSena)
